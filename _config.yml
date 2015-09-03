@@ -1,0 +1,12 @@
+color:
+  brandColors:
+    - '#B4C5CD'
+    - '#5F2626'
+    - '#AC9462'
+    - '#A44141'
+    - '#000000'
+  brandStrength: 0.5
+  lightness: 0.5
+  rhythmicContrast: 0.5
+  saturation: 0.5
+name: The Cutest Deers
