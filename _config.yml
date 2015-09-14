@@ -1,14 +1,14 @@
 color:
   brandColors:
-    - '#B4C5CD'
-    - '#5F2626'
-    - '#AC9462'
-    - '#A44141'
+    - '#B8A880'
+    - '#704800'
+    - '#907848'
+    - '#C08828'
     - '#000000'
-  brandStrength: 0.5
-  lightness: 0.5
-  rhythmicContrast: 0.5
-  saturation: 0.5
-layout_spectrum: 0.654687
+  brandStrength: 0.97804
+  lightness: 0.699324
+  rhythmicContrast: 0.229729
+  saturation: 0.162162
+layout_spectrum: 0.680743
 name: The Cutest Deers
-typography_spectrum: 0.940625
+typography_spectrum: 0.72804
