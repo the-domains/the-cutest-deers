@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://play.google.com/store/apps/details?id=io.thegrid.app'
 title: The Grid - Android Apps on Google Play
-datePublished: '2015-09-14T18:27:17.342Z'
-dateModified: '2015-09-11T11:13:33.503Z'
+datePublished: '2015-09-15T16:17:44.391Z'
+dateModified: '2015-09-14T18:27:17.342Z'
 sourcePath: _posts/2015-09-11-the-grid-android-apps-on-google-play.md
 published: true
 _context: 'http://schema.org'
