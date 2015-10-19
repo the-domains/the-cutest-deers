@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://play.google.com'
-  name: Google
-  favicon: 'https://ssl.gstatic.com/android/market_images/web/favicon.ico'
-  domain: play.google.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - grid
   - thegrid
@@ -18,14 +16,21 @@ keywords:
   - google
   - text
 description: Website creation powered by artificial intelligence.
-inLanguage: en
+datePublished: '2015-10-19T17:47:17.633Z'
+dateModified: '2015-10-19T17:47:05.424Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://play.google.com/store/apps/details?id=io.thegrid.app'
 title: The Grid - Android Apps on Google Play
-datePublished: '2015-09-15T16:17:44.391Z'
-dateModified: '2015-09-14T18:27:17.342Z'
 sourcePath: _posts/2015-09-11-the-grid-android-apps-on-google-play.md
 published: true
+authors: []
+publisher:
+  name: Google
+  domain: play.google.com
+  url: 'https://play.google.com'
+  favicon: 'https://ssl.gstatic.com/android/market_images/web/favicon.ico'
+url: the-grid-android-apps-on-google-play/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
