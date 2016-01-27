@@ -1,10 +1,10 @@
 color:
   brandColors:
-    - '#B8B0C0'
-    - '#802800'
-    - '#907070'
-    - '#FF5000'
     - '#000000'
+    - '#A84810'
+    - '#788840'
+    - '#B0C050'
+    - '#C0D068'
   brandStrength: 0.97804
   lightness: 0.699324
   rhythmicContrast: 0.229729
