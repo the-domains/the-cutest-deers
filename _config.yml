@@ -1,3 +1,19 @@
+name: The Cutest Deers
+favicon: null
+layout_spectrum: 0.680743
+typography_spectrum: 0.35307
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -7,8 +23,6 @@ color:
     - '#C0D068'
   brandStrength: 0.97804
   lightness: 0.699324
-  rhythmicContrast: 0.229729
   saturation: 0.162162
-layout_spectrum: 0.680743
-name: The Cutest Deers
-typography_spectrum: 0.35307
+  rhythmicContrast: 0.229729
+purpose: []
