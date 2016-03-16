@@ -1,19 +1,4 @@
-name: The Cutest Deers
-favicon: null
-layout_spectrum: 0.680743
-typography_spectrum: 0.35307
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
@@ -23,6 +8,11 @@ color:
     - '#C0D068'
   brandStrength: 0.97804
   lightness: 0.699324
-  saturation: 0.162162
   rhythmicContrast: 0.229729
+  saturation: 0.162162
+cta: {}
+layout_spectrum: 0.680743
+name: The Cutest Deers on Mars
+opengraph: {}
 purpose: []
+typography_spectrum: 0.35307
