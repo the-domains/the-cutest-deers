@@ -7,9 +7,9 @@ color:
     - '#B0C050'
     - '#C0D068'
   brandStrength: 0
-  lightness: 0.483552
-  rhythmicContrast: 0
-  saturation: 0.485745
+  lightness: 1
+  rhythmicContrast: 1
+  saturation: 1
 cta: {}
 layout_spectrum: 0.680743
 name: Food
