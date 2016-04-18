@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.644736
 color:
   brandColors:
     - '#000000'
@@ -10,9 +10,9 @@ color:
   lightness: 1
   rhythmicContrast: 1
   saturation: 1
-cta: {}
-layout_spectrum: 0.680743
-name: Food
 opengraph: {}
+layout_spectrum: 0.680743
+analytics: {}
+name: Food
+cta: {}
 purpose: []
-typography_spectrum: 0.644736
