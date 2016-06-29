@@ -1,4 +1,4 @@
-typography_spectrum: 0.6587961730547249
+typography_spectrum: 0.6324959963094443
 color:
   brandColors:
     - '#B9121B'
@@ -6,12 +6,12 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
-  brandStrength: 0.10842228587716818
-  lightness: 0.8801932658534497
-  rhythmicContrast: 0.21840405091643333
-  saturation: 0.819256919901818
+  brandStrength: 0.8412458533421159
+  lightness: 0.5923715361859649
+  rhythmicContrast: 0.20163186825811863
+  saturation: 0.5083899395540357
 opengraph: {}
-layout_spectrum: 0.9147934103384614
+layout_spectrum: 0.03380230930633843
 analytics: {}
 name: Food
 cta: {}
