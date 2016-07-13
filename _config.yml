@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-  brandStrength: 0.48980851098895073
-  lightness: 0.46360506932251155
-  rhythmicContrast: 0.3337410364765674
-  saturation: 0.7080540468450636
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.46007387107238173
+  lightness: 0.26200256822630763
+  rhythmicContrast: 0.09175543091259897
+  saturation: 0.8677236023359001
 cta: {}
-layout_spectrum: 0.8379843172151595
+layout_spectrum: 0.6063134076539427
 name: Food?
 opengraph: {}
 purpose: []
-typography_spectrum: 0.8762291243765503
+typography_spectrum: 0.8741176351904869
