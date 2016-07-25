@@ -15,4 +15,6 @@ layout_spectrum: 0.6063134076539427
 name: Food?
 opengraph: {}
 purpose: []
-typography_spectrum: 0.8741176351904869
+typography_spectrum: 0.715555323055014
+coverPrefs:
+  filter: false
